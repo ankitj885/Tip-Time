@@ -5,4 +5,5 @@
     <item name="colorOnPrimary">@color/overlay_light_onPrimary</item>
     <item name="colorPrimaryContainer">@color/overlay_light_primaryContainer</item>
     <item name="colorOnPrimaryContainer">@color/overlay_light_onPrimaryContainer</item>
+        <item name="iconColor">@android:color/system_accent2_600</item>
 </style></resources>
